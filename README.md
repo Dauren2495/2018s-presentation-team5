@@ -5,7 +5,7 @@
 > **P**ark, **S**him, **Y**ang
 
 ## Team Member
-- Kyuchan Shim
+- Kyuchan Shim (Team Leader)
 - Hojoon Yang
 - Junghwan Park  
 - Jaeseung Choi (TA)
